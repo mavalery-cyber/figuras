@@ -1,0 +1,21 @@
+Utilizando el ejercicio Figuras Básicas como base, agregar la funcionalidad de crear las siguientes figuras y colores.
+
+Figuras
+*****Parallelogram **** DONE
+
+****Trapezoid **** DONE
+
+****Triangle Bottom Right**** DONE
+
+******Triangle Top Right ****** DONE
+
+****Triangle Right**** DONE 
+
+*******Egg ****** DONE
+
+*****Pac-Man *** DONE
+
+*****8Y 3 colores extra de su gusto.****** DONE
+
+Figuras
+https://css-tricks.com/examples/ShapesOfCSS/
